@@ -6,12 +6,11 @@
 ## Ход работы
 
 Клонировали репозиторий данный преподавателем. Создали и заполнили файл Dockerfile image
-<img width="1557" height="672" alt="image" src="https://github.com/user-attachments/assets/a078553f-4082-4971-9a8b-0d2454a2fbd3" />
+<img width="1254" height="372" alt="image" src="https://github.com/user-attachments/assets/fc8cab73-7fab-47b2-b409-96041fc3bc60" />
+
 
 Запустили докер контейнер на порте 1234 
-<img width="1236" height="593" alt="image" src="https://github.com/user-attachments/assets/e5174787-164f-48c3-a7c3-523d3e6b648e" />
-<img width="1919" height="792" alt="image" src="https://github.com/user-attachments/assets/f13d28be-776e-4e35-9746-264023d6407b" />
-
+<img width="1255" height="524" alt="image" src="https://github.com/user-attachments/assets/78b4c89c-7b1f-4719-bd2c-ab55e237f827" />
 
 Написали docker-compose.yml для развертывания этого приложения вместе с базой данных PostgreSQL, предусмотреkb проброс порта 1234, а также возможность расширения или подключения сторонних сервисов при необходимости.
 
