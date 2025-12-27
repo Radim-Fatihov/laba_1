@@ -16,5 +16,5 @@
 
 <img width="393" height="578" alt="image" src="https://github.com/user-attachments/assets/5b384240-9bfd-45f1-970c-7a72fecba522" />
 
-Запустиkb стек через docker-compose и убедиkbcm что подключение к базе данных произошло успешно.
+Запустили стек через docker-compose и убедились что подключение к базе данных произошло успешно.
 <img width="293" height="88" alt="image" src="https://github.com/user-attachments/assets/2acb83fc-8941-41b3-b50e-5cd8c3c221fd" />
